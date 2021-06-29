@@ -1,0 +1,23 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/backgrounds/background-1.png",
+                "type": "image",
+                "key": "bg-1"
+            },
+            {
+                "url": "assets/sprites/card.png",
+                "type": "image",
+                "key": "card"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
