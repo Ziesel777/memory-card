@@ -10,6 +10,47 @@
                 "url": "assets/sprites/card.png",
                 "type": "image",
                 "key": "card"
+            },
+            {
+                "url": [
+                    "assets/sounds/card.mp3"
+                ],
+                "type": "audio",
+                "key": "card"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/atlas/cards.json",
+                "path": "assets/atlas",
+                "key": "cards"
+            },
+            {
+                "url": [
+                    "assets/sounds/complete.mp3"
+                ],
+                "type": "audio",
+                "key": "complete"
+            },
+            {
+                "url": [
+                    "assets/sounds/success.mp3"
+                ],
+                "type": "audio",
+                "key": "success"
+            },
+            {
+                "url": [
+                    "assets/sounds/theme.mp3"
+                ],
+                "type": "audio",
+                "key": "theme"
+            },
+            {
+                "url": [
+                    "assets/sounds/timeout.mp3"
+                ],
+                "type": "audio",
+                "key": "timeout"
             }
         ]
     },

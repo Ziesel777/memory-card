@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "cards.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 198,
+				"h": 1848
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "card-back",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 196,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 196,
+						"h": 306
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 196,
+						"h": 306
+					}
+				},
+				{
+					"filename": "card-front-1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 196,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 196,
+						"h": 306
+					},
+					"frame": {
+						"x": 1,
+						"y": 309,
+						"w": 196,
+						"h": 306
+					}
+				},
+				{
+					"filename": "card-front-2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 196,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 196,
+						"h": 306
+					},
+					"frame": {
+						"x": 1,
+						"y": 617,
+						"w": 196,
+						"h": 306
+					}
+				},
+				{
+					"filename": "card-front-3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 196,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 196,
+						"h": 306
+					},
+					"frame": {
+						"x": 1,
+						"y": 925,
+						"w": 196,
+						"h": 306
+					}
+				},
+				{
+					"filename": "card-front-4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 196,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 196,
+						"h": 306
+					},
+					"frame": {
+						"x": 1,
+						"y": 1233,
+						"w": 196,
+						"h": 306
+					}
+				},
+				{
+					"filename": "card-front-5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 196,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 196,
+						"h": 306
+					},
+					"frame": {
+						"x": 1,
+						"y": 1541,
+						"w": 196,
+						"h": 306
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1fac75eb51b9210b6079415f16816b48:ca443d1b00803afd37b83cff1ce7cd52:8056528aade6b91f4a89f8c9da7f2d4c$"
+	}
+}
